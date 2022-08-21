@@ -48,3 +48,6 @@ Silahkan buat docker-compose filenya, kemudian simpan dalam folder `tasks` denga
 2. Kenapa Orchestration Container System seperti Kubernetes sangat popular (menurut anda)?
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
+
+1. Orchestration Container System adalah sistem yang menghimpun frontend, backend dan database yang kemudian dikelola sedemikian rupa agar mempermudah pengolahan data dan developer lain untuk mengaksesnya.
+2. 
